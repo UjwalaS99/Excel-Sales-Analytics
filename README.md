@@ -5,8 +5,8 @@ Welcome to Sales and Financial Analytics project repository! This document provi
 ## Sales Analysis:
 
 - **Project Focus:** 
-    **1.** Crafting a comprehensive _[customer performance report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_.
-    **2.** Conducting an in-depth comparison between _[market performance and sales targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_.
+    **1.** Crafting a comprehensive _[customer performance report](https://github.com/UjwalaS99/Sales-Analytics/blob/main/Customer%20Net%20Sales%20Performance%20Report.pdf)_.
+    **2.** Conducting an in-depth comparison between _[market performance and sales targets](https://github.com/UjwalaS99/Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_.
 
 - **Objective:** Enable businesses to monitor and assess their sales activities and performance effectively.
 
@@ -17,8 +17,8 @@ Welcome to Sales and Financial Analytics project repository! This document provi
 ## Financial Analysis:
 
 - **Project Focus:** 
-    **1.** Developing Profit and Loss (P&L) reports categorized by _[Fiscal Year](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)_.
-    **2.** Crafting Profit and Loss (P&L) reports segmented by _[Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_.
+    **1.** Developing Profit and Loss (P&L) reports categorized by _[Fiscal Year](https://github.com/UjwalaS99/Sales-Analytics/blob/main/P%20%26%20L%20For%20Years.pdf)_ & _[Months](https://github.com/UjwalaS99/Sales-Analytics/blob/main/P%20%26%20L%20For%20Months.pdf)_.
+    **2.** Crafting Profit and Loss (P&L) reports segmented by _[Markets](https://github.com/UjwalaS99/Sales-Analytics/blob/main/P%20%26%20L%20For%20Markets.pdf)_.
 
 - **Objective:** Evaluation of financial performance to facilitate informed decision-making and stakeholder communication.
 
